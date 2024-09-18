@@ -6,4 +6,4 @@ You can access my website through this link:
 https://ltb23581.github.io/ltb23581.github.io-csci4300 
 
 For my updated portfolio page, please refer to this link:
-www.lindsaytbui.com
+http://lindsaytbui.com/
